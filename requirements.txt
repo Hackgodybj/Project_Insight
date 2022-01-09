@@ -1,0 +1,3 @@
+urllib3
+threading
+requests
